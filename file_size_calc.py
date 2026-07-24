@@ -1,5 +1,3 @@
-# 3 – Checking File Size
-
 import os
 
 
